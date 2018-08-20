@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class pageOneProcess
  */
-@WebServlet("/pageOneProcess")
+//@WebServlet("/pageOneProcess")
 public class pageOneProcess extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 

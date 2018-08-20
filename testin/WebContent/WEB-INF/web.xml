@@ -15,9 +15,9 @@
   	<servlet-name>pageOneProcess</servlet-name>
   	<servlet-class>com.as.samples.pageOneProcess</servlet-class>
   	</servlet>
-  	<servlet-mapping>
+  <servlet-mapping>
   	<servlet-name>pageOneProcess</servlet-name>
-  	<url-pattern>pageOneProcess</url-pattern>
+  	<url-pattern>/pageOneProcess</url-pattern>
   	</servlet-mapping>
   <servlet>
   	<description></description>
@@ -25,9 +25,9 @@
   	<servlet-name>pageTwoProcess</servlet-name>
   	<servlet-class>com.as.samples.pageTwoProcess</servlet-class>
   	</servlet>
-  	<servlet-mapping>
+  <servlet-mapping>
   	<servlet-name>pageTwoProcess</servlet-name>
-  	<url-pattern>pageTwoProcess</url-pattern>
+  	<url-pattern>/pageTwoProcess</url-pattern>
   	</servlet-mapping>
   	
 </web-app>
